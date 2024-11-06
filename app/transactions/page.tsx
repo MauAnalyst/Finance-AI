@@ -1,5 +1,5 @@
-const Transactions = () => {
-    return <a href="/">Transactions</a>
+const TransactionsPage = () => {
+  return <a href="/">Transactions</a>;
 };
 
-export default Transactions;
+export default TransactionsPage;

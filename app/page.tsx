@@ -1,6 +1,6 @@
 import { Button } from "./_components/ui/button";
 
-const Home = () => {
+const HomePage = () => {
   return (
     <div className="flex w-screen flex-col items-center justify-center font-bold">
       <h1 className="p-5">Hello Word</h1>
@@ -9,4 +9,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;
